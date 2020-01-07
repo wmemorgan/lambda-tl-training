@@ -8,7 +8,7 @@
 ## Part 1: Case Studies
 
 ---
-### Case Study 1:
+### Case study 1:
 It's Week 2 and you've noticed one of your students, Tom Jerry, is very disengaged. Tom has not been attending guided projects and has been skipping stand-ups, and when they do attend, they have their camera off or are clearly demonstrating they aren't paying attention. 
 
 1. Any questions you would want answered before taking action or additional information you might need
@@ -75,7 +75,7 @@ Another student in your group comes to you and says Tom's behavior in stand-up i
     - Get clarity on my role in the mitigation plan
 
 ---
-### Case Study 2:
+### Case study 2:
 
 You've noticed one of your students, Draco Malfoy, consistently tries to take over the group. They are disruptive in Slack and in stand-ups. They are consistently showing off, cutting other people off from talking, and they are very hard for others to work with in a group. Multiple students have reached out to you to say they are upset by Draco's behavior.
 
@@ -107,7 +107,7 @@ Since this problem has occurred before I would need to get real clear on Lambda'
 
 
 ---
-### Case Study 3:
+### Case study 3:
 You are finishing up a Sprint Challenge 1:1 review with one of your students. The student did not meet MVP for their sprint challenge, and you notice they seem to be taking the news very hard. In talking through the situation with the student, they reveal to you that they have been struggling with mental health concerns, feeling very overwhelmed, and are burnt out.
 
 Escalate this immediately to my SL and ask for intervention from Lambda team members that are qualified to handle these types of issues.
@@ -142,7 +142,7 @@ You are reviewing a student's code/project, and you are fairly positive they pla
         - Mitigate by bringing in Lambda incident response resources ASAP and letting them handle mitigation
 
 --
-### Case 5
+### Case study 5
 You've noticed one of your students who is on the quieter side does a phenomenal job - consistently completes assignments and stretch goals, but will not participate in the group or speak-up in channels or during stand-up.
 
 My stand-ups are structured where we go around the room and everyone has to provide a status update.
@@ -177,10 +177,16 @@ My stand-ups are structured where we go around the room and everyone has to prov
         - Get clarity on my role in the mitigation plan
 
 ---
-### Case 6
+### Case study 6
 A student comes to you, very clearly upset, and reports that they feel they were being harassed or discriminated against by another student.
 
-Escalate this immediately to my SL and ask for intervention from Lambda team members that are qualified to handle these types of issues.
+1. Any questions you would want answered before taking action or additional information you might need
+    - What are the required steps when I see a student in violation of code conduct.
+
+2. What steps you would take
+    - Schedule a 1-on-1 meeting ASAP
+    - LISTEN and take notes about the situation
+    - Escalate this immediately to my SL and ask for intervention from Lambda team members that are qualified to handle these types of issues.
 
 4. What would success look like in this situation
 - Student gets the support s/he needs
@@ -190,4 +196,26 @@ Escalate this immediately to my SL and ask for intervention from Lambda team mem
 ## Part 2: Put it into Practice
 
 ### Key Take-aways:
- 
+Case 1:
+- Pinpoint problem earlier
+
+Case 2:
+- Leading with a compliment then point out an issue
+- Recruiting Draco to help the group
+
+Case 3:
+ - Providing information about mental health services
+ - Mentioning viewing stories of student success
+ - Repetition of low hanging fruit
+
+Case 4:
+ - Point out consequences of blindly copying code and not understanding how the code works
+
+Case 5:
+  - Suggest pair programming to help develop teamwork skills
+  - Encourage student to provide assistance to other students in the Slack help channel
+  - Acknowledge/empathize with the difficulty of commmunicating with people or speaking in front of a group
+
+Case 6:
+ - Acknowledging student's feelings 
+ - Getting specifics of harassment
