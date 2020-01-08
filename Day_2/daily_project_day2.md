@@ -1,11 +1,12 @@
+## Part 1: Case Studies
+
+### Action Steps
 1. Any questions you would want answered before taking action or additional information you might need
 2. What steps you would take
 3. Any resources you might need
 4. What would success look like in this situation
 5. What might the follow-up look like
 6. Any potential challenges that might arise and how you could address them
-
-## Part 1: Case Studies
 
 ---
 ### Case study 1:
